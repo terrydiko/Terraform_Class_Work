@@ -8,3 +8,6 @@ module "instance_project" {
 output "instanceIP" {
   value = module.instance_project.instanceIP
 }
+output "name" {
+  
+}
